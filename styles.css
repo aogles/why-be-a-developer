@@ -1,0 +1,53 @@
+body {
+    font-family: system-ui;
+  font-size: 2.0rem;
+      background-image: linear-gradient(to right, rgb(234, 174, 184), rgb(82, 17, 17));: rgb(82, 17, 17);
+    color: rgb(234, 174, 184);
+    text-align: center;
+  }
+h2{
+  font-size: 1.5rem;
+  }
+
+p{
+  text-align: right;
+  font-size: 1.5rem;
+  right: 50px;
+  padding-left: 50%
+  
+}
+
+.creativity{
+  margin: 0;
+  padding: 10rem 1rem;
+  text-align: left;
+  color: rgb(234, 174, 184); 
+  background-color:rgb(82, 17, 17);
+
+}
+
+img{
+align-items: right;
+  height: 300px; 
+  width: 400px;
+}
+
+.employment{
+  margin: 0;
+  padding: 10rem 1rem;
+  text-align: left;
+  color: rgb(82, 17, 17); 
+  background-color: rgb(234, 174, 184);
+}
+
+.future{
+  margin: 0;
+  padding: 10rem 1rem;
+  text-align: left;
+  color: rgb(234, 174, 184); 
+  background-image: linear-gradient(to right, rgb(234, 174, 184), rgb(82, 17, 17));: rgb(82, 17, 17);
+  }
+
+.future h2{
+  color:rgb(82, 17, 17);
+}
